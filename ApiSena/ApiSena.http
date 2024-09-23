@@ -1,0 +1,6 @@
+@ApiSena_HostAddress = http://localhost:5276
+
+GET {{ApiSena_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
